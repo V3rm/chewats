@@ -1,7 +1,7 @@
 # ew free cheats
 (btw some are vac detected lul)
 
-(if ur nerd and want to know why some are vac detected go to "nerdy_stuff.txt")
+(if ur curious and want to know why some are vac detected go to "NEED_TO_KNOW.txt")
 
 Cͨrͬeͤdͩiͥᴛⷮs͛ ᴛⷮoͦ:
 
