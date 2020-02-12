@@ -1,5 +1,5 @@
 # ew free cheats
-(btw are vac detected lul)
+(btw some are vac detected lul)
 
 Cͨrͬeͤdͩiͥᴛⷮs͛ ᴛⷮoͦ:
 
