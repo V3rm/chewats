@@ -1,0 +1,13 @@
+Q: Why are free cheats detected?
+
+A: Simple answer, most are detected because they use readable memory to function which is easy detected by VAC Anti-cheat if you would like please go to "https://www.mpgh.net/forum/showthread.php?t=1126573" to see how to read memory if you are interested.
+
+Q: Are these hacks safe for my computer?
+
+A: Another simple answer, yes, these are safe for your computer. Although dlls can have malware (https://forums.malwarebytes.com/topic/91492-can-dll-files-have-viruses/) we are more than a 100000% sure these cheats are harmless to your pc.
+
+Q: What injector should I use?
+
+A: We reccomend the injector "Extreme Injector V3" (https://wearedevs.net/d/Extreme%20Injector). You may think these contain malware but it is a false positive you can read more at "https://wearedevs.net/d/Extreme%20Injector".
+
+Hope you like this reposotory!
